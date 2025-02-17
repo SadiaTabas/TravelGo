@@ -1,0 +1,28 @@
+Admin login info: 
+	username: admin
+	password: admin
+
+=================================
+5 Star Hotel login info: 
+	username: h5admin
+	password: h5admin
+
+=================================
+3 Star Hotel login info: 
+	username: h3admin
+	password: h3admin
+
+=================================
+2 Star Hotel login info: 
+	username: h2admin
+	password: h2admin
+
+=================================
+Bus Service Provider login info: 
+	username: adminBus
+	password: adminBus
+
+=================================
+Air Service Provider login info: 
+	username: adminAir
+	password: adminAir
